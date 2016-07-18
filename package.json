@@ -1,0 +1,24 @@
+{
+  "name": "url_shortener",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sthodup1/url-shortener.git"
+  },
+  "author": "Sunny Thodupunuri",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sthodup1/url-shortener/issues"
+  },
+  "homepage": "https://github.com/sthodup1/url-shortener#readme",
+  "dependencies": {
+    "express": "^4.14.0",
+    "mongodb": "^2.2.2",
+    "pug": "^2.0.0-beta4"
+  }
+}
